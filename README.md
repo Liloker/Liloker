@@ -16,7 +16,7 @@
 
 #### 🧰 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,flask,vue,ts,swift,cloudflare,docker,linux,bash,cpp,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,matlab,flask,postgres,linux,bash,docker,prometheus,aws,cloudflare,swift,ts,vue)](https://skillicons.dev)
 
 #### 📌 Featured
 
